@@ -1,0 +1,20 @@
+add background image to banner DONE
+align 'format camera' box in banner DONE
+add images to the middle section
+Bottom section:
+    Make image container 98% width with equal side margin
+    Make photos span 1/4 each using grid with repeat(4, 1fr) (may not be needed as automatic?) 
+    Add text: "It's truly something that could create a brand new photography Renaissance"
+    Add Photography Society image to right of aove text.
+    Check footer text attributes
+
+Media queries: 
+Tablet / phone: 
+    Remove the green banner box with; keep just the 'Instant FORMAT CAMERA' part
+    check image position is center, overflow: hidden;
+    Add 'join us' button to the top right.
+
+Phone: 
+Change nav bar to that in spec.
+Stack middle images in a flex-column
+bottom section. Photography Society image below the text. 
